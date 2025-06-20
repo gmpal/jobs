@@ -1,0 +1,38 @@
+[
+  {
+    "startup_name": "Allow Motion — Belgium",
+    "description": "Allow Motion is a Belgian startup that focuses on developing innovative motion control solutions for industrial applications. They specialize in providing technology that allows for precise control of movement in manufacturing and automation systems.",
+    "hiring_status": "unknown",
+    "contact_info": {
+      "website": "Not found",
+      "email": "Not found",
+      "linkedin": "Not found",
+      "twitter": "Not found",
+      "other": "Not found"
+    }
+  },
+  {
+    "startup_name": "Clonable — Belgium",
+    "description": "Clonable is a Belgian biotech startup focused on developing synthetic antibody libraries using a proprietary platform for therapeutic applications. They specialize in creating high-quality, fully human synthetic antibody libraries that are designed to be easily customizable for different therapeutic targets.",
+    "hiring_status": "unknown",
+    "contact_info": {
+      "website": "https://clonable.be/",
+      "email": "info@clonable.be",
+      "linkedin": "https://www.linkedin.com/company/clonable/",
+      "twitter": "Not found",
+      "other": "Address: Avenue Albert Einstein 4, 1348 Louvain-la-Neuve, Belgium"
+    }
+  },
+  {
+    "startup_name": "Saecura — Belgium",
+    "description": "Saecura is a medical technology company focused on developing innovative solutions for women's health, particularly in the area of cervical cancer screening. They have created a digital pathology platform that utilizes artificial intelligence to improve the accuracy and efficiency of cervical cancer diagnosis.",
+    "hiring_status": "unknown",
+    "contact_info": {
+      "website": "https://www.saecura.ai/",
+      "email": "Not found",
+      "linkedin": "https://www.linkedin.com/company/saecura/",
+      "twitter": "Not found",
+      "other": "Not found"
+    }
+  }
+]
